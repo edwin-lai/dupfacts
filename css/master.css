@@ -18,6 +18,7 @@ h1 {
 
 header {
   background: linear-gradient(to right, #c6292b, #eeeeee, #18273c);
+  color: white;
   position: sticky;
   top: 0;
   left: 0;
